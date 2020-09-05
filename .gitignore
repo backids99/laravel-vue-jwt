@@ -1,0 +1,14 @@
+/.vscode
+/node_modules
+/public/hot
+/public/storage
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/views
+/storage/logs
+.editorconfig
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
